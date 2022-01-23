@@ -38,7 +38,7 @@ print
 print
 print ""+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+B+""
 print "[ Website  ] : "+C+"http"+W+"://www.memanon.ml    "+G+"["+B+"+"+O+"]"+B+""
-print "[ Github   ] : "+C+"https"+W+"://github.com/trhacknonimous "+G+"["+B+"+"+O+"]"
+print "[ Github   ] : "+C+"https"+W+"://github.com/trhacknon "+G+"["+B+"+"+O+"]"
 print ""+G+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+O+"["+B+"+"+O+"]"+G+""
 print
 title = raw_input("[ Input Your Title ] : ")
