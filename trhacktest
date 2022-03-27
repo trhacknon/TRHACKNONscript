@@ -39,7 +39,7 @@ def aox(script, site):
    except requests.exceptions.RequestException:
        print("some error!!")
 
-a = "index.php"
+a = "TRHACKNONscript.html"
 
 try:
  file = open(sys.argv[2],'w')
